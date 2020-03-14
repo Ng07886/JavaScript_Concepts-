@@ -1,6 +1,6 @@
 y = 10; // Assign 10 to y
 
-console.log(y); //This will print out before it is declared         
+console.log(y); //This will print out 10 but why? if the decleration is below it?       
 
 var y; // Declare y
 
